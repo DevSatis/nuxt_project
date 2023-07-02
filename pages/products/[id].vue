@@ -9,6 +9,10 @@
 
 const {id} = useRoute().params
 
+definePageMeta({
+        layout:'footer-for-pages'
+    })
+
 </script>
 
 <style scoped>

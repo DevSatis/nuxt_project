@@ -5,6 +5,9 @@
 </template>
 
 <script setup>
+    definePageMeta({
+        layout:'footer-for-pages'
+    })
 
 </script>
 
